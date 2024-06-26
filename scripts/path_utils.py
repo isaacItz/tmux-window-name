@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.10
 
 from dataclasses import dataclass
 from pathlib import Path
